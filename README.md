@@ -1,5 +1,5 @@
 ## Information Visualization tasks  
 > hosting under the domain ***okcode.xyz***
 ### IV Assessments  
-- Giraffe System - https://okcode.xyz/Giraffe.html [NOT AVAILABLE]
-- Zebra System  - https://occode.xyz/Zebra.html [NOT AVAILABLE]
+- Giraffe System - https://1ii.me/Giraffe.html
+- Zebra System  - https://1ii.me/Zebra.html
